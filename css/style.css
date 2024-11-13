@@ -21,3 +21,17 @@ header {
 #evidenziato {
     background-color: yellow;
 }
+
+#testata {
+    color: white;
+    background-color: lightskyblue;
+}
+
+.scuro {
+    background-color: rgb(201, 204, 207);
+}
+
+
+.chiaro {
+    background-color: whitesmoke;
+}
