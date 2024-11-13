@@ -29,9 +29,16 @@ header {
 
 .scuro {
     background-color: rgb(201, 204, 207);
+    width: 800;
 }
 
 
 .chiaro {
     background-color: whitesmoke;
+    width: 800;
+}
+
+
+table {
+    width: 1900px;
 }
