@@ -8,11 +8,16 @@ header {
     color: slategray;
 }
 
-span {
+#thebooleaner {
     color: dodgerblue;
 }
 
 
 #data {
     color: slategray;
+}
+
+
+#evidenziato {
+    background-color: yellow;
 }
