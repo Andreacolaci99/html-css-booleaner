@@ -42,3 +42,7 @@ header {
 table {
     width: 1900px;
 }
+
+h5 {
+    font-weight: 100;
+}
