@@ -1,13 +1,32 @@
 header {
-     background-image: url();
-     background-color: lightskyblue;
+     width: 100%;
+     padding: 15px 15px;
+     background-color: rgb(163, 220, 240);
+    /* background-image: url(../img/pattern.png);*/
+      }
+
+body {
+    margin: 0;
 }
 
-
-#scrittoda {
-
-    color: slategray;
+main {
+    margin: 8px;
 }
+ 
+#scrittoda, #date {
+    color:slategray;
+}
+
+#date {
+    margin-top: -20px;
+    margin-bottom: 40px;
+
+}
+
+.titolo {
+    width: 300px;
+}
+
 
 #thebooleaner {
     color: dodgerblue;
@@ -18,8 +37,7 @@ header {
     color: slategray;
 }
 
-
-#evidenziato {
+.evidenziato {
     background-color: yellow;
 }
 
@@ -30,20 +48,34 @@ header {
 
 .recordscuro {
     background-color: rgb(201, 204, 207);
-    width: 800;
 }
 
 
 .recordchiaro {
     background-color: whitesmoke;
-    width: 800;
+
 }
 
 
 table {
-    width: 1900px;
+    width: auto;
 }
 
 h5 {
     font-weight: 100;
+    margin-top: auto;
+
+}
+
+
+li {
+    margin-left: -25px;
+}
+
+.w25 {
+    width: 25%;
+}
+
+.w50 {
+    width: 50%;
 }
