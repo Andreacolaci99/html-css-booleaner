@@ -2,8 +2,8 @@ header {
      width: 100%;
      padding: 15px 15px;
      background-color: rgb(163, 220, 240);
- /*    background-image: url(../img/pattern.png);
-     background-size: 25%; */
+     background-image: url(../img/pattern.png);
+     background-size: 25%; 
       }
 
 body {
@@ -12,7 +12,7 @@ body {
 
 main {
     margin: 8px;
-/*    padding: 0 300px; */
+   padding: 0 300px; 
 }
  
 #scrittoda, #date {
